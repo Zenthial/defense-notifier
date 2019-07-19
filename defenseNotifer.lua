@@ -18,7 +18,7 @@ local groupID =   -- It's your group id, pretty simple.
 
 function postAnnouncement()
 	local Message = {
-        ['username'] = "put your username here", -- This will be the username of the bot. Typically, it'll be something like
+        ['username'] = "put your username here", -- This will be the username of the bot. Typically, it'll be something like it'll be something like "Arvore Scout" or "WIJBot"
         ['content'] = "put your message here", -- This is where the message goes. If you want to ping everyone, just do @everyone. 
     --[[ If you want to create an embed, it'll take a bit of work on your part. However, i'll provide the basic resources for you.
 		["embeds"] = {{
