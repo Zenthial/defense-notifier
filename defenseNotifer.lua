@@ -49,7 +49,7 @@ game.Players.PlayerAdded:connect(function(Player)
 				amountRaiders=amountRaiders+1
 			end
 		end
-	if amountRaiders>neededRaiders and Player then
+	if amountRaiders>=neededRaiders and Player then
   	  	wait(5)
    			if not notified then
 				notified = true
