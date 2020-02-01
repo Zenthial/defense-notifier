@@ -7,6 +7,4 @@ If you want this to work, all you'll need is a Discord Webhook, set up to the ch
 Once you've gotten that, you can grab your group's ID, and you're all set. Just decide on what message you want the bot to send, and it'll work flawlessly.
 
 ## Usage
-To have the bot function, you can make one script, and put it within the ServerScriptStorage. If you have any questions, feel free to DM ts#1329
-
-### REMOVED DUE TO THETA
+To have the bot function, you can make one script, and put it within the ServerScriptStorage. If you have any questions, feel free to DM tommy#9757
