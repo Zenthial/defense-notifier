@@ -8,3 +8,5 @@ Once you've gotten that, you can grab your group's ID, and you're all set. Just 
 
 ## Usage
 To have the bot function, you can make one script, and put it within the ServerScriptStorage. If you have any questions, feel free to DM tommy#9757
+
+## PLEASE READ ALL THE INSTRUCTIONS BEFORE DMING ME
